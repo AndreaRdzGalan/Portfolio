@@ -1,0 +1,42 @@
+*{
+   text-align: center;
+}
+.menu {
+   text-align: right;
+}
+.menu a {
+   padding: 20px;
+   
+}
+.menu img{
+   width: 40px;
+}
+h1 {
+   color: black; 
+   font-family: Didot; 
+   font-size: xxx-large; 
+   text-align:unset;
+   padding-top: 250px;
+padding-bottom: 50px;
+}
+h2 {
+   color: black; 
+   font-family: Didot; 
+   }
+h3{
+   color: black; 
+   font-family: Didot; 
+}
+.Photography {
+   display:inline-block;
+   padding-right: 70px;
+   text-align: left;
+   font-size: larger;
+
+}
+
+.Illustration {
+   display: inline-block;
+   font-size:x-large;
+   text-align: left;
+}
