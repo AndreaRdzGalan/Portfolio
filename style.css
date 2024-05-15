@@ -17,8 +17,10 @@ h1 {
    font-size: xxx-large; 
    text-align:unset;
    padding-top: 250px;
-padding-bottom: 50px;
+   padding-bottom: 50px;
+   text-decoration: none;
 }
+
 h2 {
    color: black; 
    font-family: Didot; 
