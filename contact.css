@@ -1,0 +1,62 @@
+.header img{
+  position: absolute;
+  top: 20px;
+  right: 40px;
+  width: 40px;
+}
+
+.todo{
+  padding-top: 10%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.correo {
+   display:flex;
+   flex-wrap: wrap;
+   padding: 0px;
+   text-align: left;
+   max-width: 900px;
+   align-items: center;
+}
+
+.correo img{
+  height: auto;
+  width: 10%;
+  gap: 5px;
+  margin: 8px;
+  align-items: center;
+}
+
+.insta {
+   display:flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   font-size: x-large;
+   align-items: center;
+}
+
+.insta img{
+  height: auto;
+  width: 10%;
+  gap: 5px;
+  margin-left: 10px;
+}
+
+.telefono {
+   display:flex;
+   flex-wrap: wrap;
+   justify-content: right;
+   font-size: x-large;
+   align-items: center;
+   margin-right: 10px;
+}
+
+.telefono img{
+  height: auto;
+  width: 10%;
+  gap: 5px;
+  margin: 8px;
+  align-items: center;
+  margin-right: 10px;
+}
