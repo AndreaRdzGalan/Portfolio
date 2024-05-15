@@ -1,0 +1,23 @@
+.header img{
+  position: absolute;
+  top: 20px;
+  right: 40px;
+  width: 40px;
+}
+
+.Me {
+   display:flex;
+   padding: 20px;
+   text-align: left;
+   max-width: 600px;
+   align-items: left;
+   padding-top: 120px;
+}
+
+.Me img{
+  height: auto;
+  width: 20%;
+  gap: 5px;
+  margin: 20px;
+  align-items: left;
+}
