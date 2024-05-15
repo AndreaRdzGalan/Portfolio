@@ -7,11 +7,12 @@
 
 .Me {
    display:flex;
-   padding: 20px;
-   text-align: left;
+   padding: 50px;
+   text-align: center;
    max-width: 600px;
    align-items: left;
-   padding-top: 120px;
+   padding-top: 100px;
+   text-align: justify;
 }
 
 .Me img{
@@ -19,5 +20,5 @@
   width: 20%;
   gap: 5px;
   margin: 20px;
-  align-items: left;
+  align-items: center;
 }
