@@ -1,0 +1,11 @@
+.header img{
+  position: absolute;
+  top: 20px;
+  right: 40px;
+  width: 40px;
+}
+
+.Illustration img{
+  height: auto;
+  width: 20%;
+}
